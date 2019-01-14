@@ -1,0 +1,8 @@
+{
+  "name": "Deliber",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "ae9b69a0"
+}
